@@ -1,0 +1,22 @@
+TranslateWikiApp
+================
+
+Android app for TranslateWiki.net users
+
+This application was first envisioned by Yuvraj Panadian to enable translatewiki.net to reach further
+and have better penetration and availibility to contributors.
+An initial version was then made by Yuvraj.
+It was then taken over as a project in Google Summer of Code by Or Sage.
+I would like to continue development of this application.
+
+It has two modes of usage are
+1. Proofread mode to enable users to review translations by others.
+2. Translation mode to enable users to translate messages.
+
+Users should have translation rights before trying to use this application.
+Login/Authentication system is built in.
+
+It uses the following libraries:
+a. android-mwlogin by yuvipanda - Android Library for Login/Authentication on MediaWiki servers
+b. java-mwapi by yuvipanda - Java Module for easy access to MediaWiki API
+c. actionbarsherlock by Jake Wharton - Android Library to extend action bar to earlier versions of android.
